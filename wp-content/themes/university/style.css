@@ -1,0 +1,20 @@
+/*
+Theme Name: EVPS University
+Theme URI: https://www.evps.vn/
+Description: A theme that can be used for educational, academic, institutions or business websites. Fully responsive. Front page image slider. Featured posts or pages below the slider. Integrated social media icon fonts, 11 available. Easily upload your logo image.
+Author: Thái Khang
+Author URI: https://www.evps.vn/
+License: GNU GPL
+License URI: http://www.gnu.org/licenses/gpl.html
+Version: 1.0
+Tags: three-columns, two-columns, right-sidebar, full-width-template, threaded-comments, translation-ready, blog, education, news, custom-background, custom-menu, featured-images, custom-colors 
+Text Domain: evps
+*/
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+a {
+    color:bisque;
+}
